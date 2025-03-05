@@ -1,0 +1,21 @@
+{
+  "name": "time-productivity_manager",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/wildheartt/time-productivity_manager#readme",
+  "bugs": {
+    "url": "https://github.com/wildheartt/time-productivity_manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildheartt/time-productivity_manager.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "eslint.config.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  }
+}

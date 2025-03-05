@@ -1,11 +1,6 @@
-
 coverage/
-*.lcov
-
+.env
 node_modules/
-
-.npm
-
 dist/
 dist-ssr/
 
