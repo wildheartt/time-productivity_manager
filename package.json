@@ -17,5 +17,6 @@
   "scripts": {
     "lint": "eslint .",
     "test": "jest"
-  }
+  },
+  "keywords": []
 }
